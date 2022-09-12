@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75404d76-20b6-479f-9ce7-f1467cea80ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/algs4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week01/Initials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week01/TenHelloWorlds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week01/HiThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week02/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week02/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week02/UFClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week02/UFClient2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +36,104 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Documents/UET/INT2210 CTDLGT/DSAWeeklyExercise/libs/algs4.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Documents/UET/INT2210 CTDLGT/DSAWeeklyExercise/libs/algs4.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.ThreeSum">
+    <configuration name="HiThree" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week01.HiThree" />
+      <module name="DSAWeeklyExercise" />
+      <option name="PROGRAM_PARAMETERS" value="Alice Bob Carol" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week02.ThreeSum" />
+      <module name="DSAWeeklyExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week02.TwoSum" />
+      <module name="DSAWeeklyExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week02.UFClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week02.UFClient" />
+      <module name="DSAWeeklyExercise" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/algs4-data/mediumUF.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week02.UFClient2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week02.UFClient2" />
+      <module name="DSAWeeklyExercise" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/algs4-data/tinyUF.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HiThree" />
+      <item itemvalue="Application.ThreeSum" />
+      <item itemvalue="Application.TwoSum" />
+      <item itemvalue="Application.Week02.UFClient" />
+      <item itemvalue="Application.Week02.UFClient2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.Week02.UFClient2" />
+        <item itemvalue="Application.Week02.UFClient" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,6 +143,10 @@
       <option name="presentableId" value="Default" />
       <updated>1662824964599</updated>
       <workItem from="1662824966640" duration="1090000" />
+      <workItem from="1662858856171" duration="3000000" />
+      <workItem from="1662863157663" duration="264000" />
+      <workItem from="1662863770396" duration="6000" />
+      <workItem from="1662963418728" duration="3534000" />
     </task>
     <servers />
   </component>
