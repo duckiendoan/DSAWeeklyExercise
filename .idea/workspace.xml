@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75404d76-20b6-479f-9ce7-f1467cea80ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week01/HiThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week02/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week02/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week02/UFClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week02/UFClient2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week02/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week02/ThreeSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +143,12 @@
       <workItem from="1662863157663" duration="264000" />
       <workItem from="1662863770396" duration="6000" />
       <workItem from="1662963418728" duration="3534000" />
+      <workItem from="1662967355591" duration="392000" />
+      <workItem from="1662967851338" duration="114000" />
+      <workItem from="1662987538906" duration="191000" />
+      <workItem from="1662988892104" duration="137000" />
+      <workItem from="1662989495686" duration="368000" />
+      <workItem from="1663027965244" duration="442000" />
     </task>
     <servers />
   </component>

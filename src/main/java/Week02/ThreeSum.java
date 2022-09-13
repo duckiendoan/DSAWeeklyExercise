@@ -1,6 +1,7 @@
 package Week02;
 import edu.princeton.cs.algs4.*;
 import java.util.Arrays;
+import java.util.HashMap;
 
 public class ThreeSum {
     private static int binarySearch(int[] a, int target, int l, int r) {
@@ -20,8 +21,20 @@ public class ThreeSum {
         In in = new In("algs4-data/8KInts.txt");
         int[] a = in.readAllInts();
 
-        System.out.println(threeSumTwoPointer(a));
+        long startTime = System.currentTimeMillis();
+        System.out.println(threeSumTwoPointers(a));
+        long endTime = System.currentTimeMillis();
+        System.out.println("Two Pointers: " + (endTime - startTime) + "ms");
+
+        startTime = System.currentTimeMillis();
         System.out.println(threeSumBinarySearch(a));
+        endTime = System.currentTimeMillis();
+        System.out.println("Binary Search: " + (endTime - startTime) + "ms");
+
+        startTime = System.currentTimeMillis();
+        System.out.println(threeSumHashTable(a));
+        endTime = System.currentTimeMillis();
+        System.out.println("Hash Table: " + (endTime - startTime) + "ms");
         //System.out.println(threeSumSlow(a));
     }
 
@@ -41,7 +54,7 @@ public class ThreeSum {
         return c;
     }
 
-    private static int threeSumTwoPointer(int[] a) {
+    private static int threeSumTwoPointers(int[] a) {
         Arrays.sort(a);
         int n = a.length;
         int count = 0;
@@ -76,5 +89,18 @@ public class ThreeSum {
                     if (a[i] + a[j] + a[k] == 0)
                         c++;
         return c;
+    }
+
+    private static int threeSumHashTable(int[] a) {
+        HashMap<Integer, Integer> set = new HashMap<>();
+        int count = 0;
+        for (int i = 0; i < a.length; i++)
+            set.put(a[i], i);
+
+        for (int i = 0; i < a.length; i++)
+            for (int j = i + 1; j < a.length; j++)
+                if (set.getOrDefault(-(a[i] + a[j]), -1) > j)
+                    count++;
+        return count;
     }
 }
