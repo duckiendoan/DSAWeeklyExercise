@@ -4,19 +4,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 public class ThreeSum {
-    private static int binarySearch(int[] a, int target, int l, int r) {
-        while (l <= r) {
-            int mid = (l + r) / 2;
-            if (a[mid] == target)
-                return mid;
-            else if (a[mid] < target)
-                l = mid + 1;
-            else
-                r = mid - 1;
-        }
-        return -1;
-    }
-
     public static void main(String[] args) {
         In in = new In("algs4-data/8KInts.txt");
         int[] a = in.readAllInts();

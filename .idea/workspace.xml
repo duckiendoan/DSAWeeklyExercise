@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75404d76-20b6-479f-9ce7-f1467cea80ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/ClosestNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/NewYearChaos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/Pairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/SherlockAndArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/ThreeSumFast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Week02/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week02/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week02/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week02/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,8 +130,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.Week02.UFClient2" />
         <item itemvalue="Application.Week02.UFClient" />
       </list>
@@ -148,7 +155,11 @@
       <workItem from="1662987538906" duration="191000" />
       <workItem from="1662988892104" duration="137000" />
       <workItem from="1662989495686" duration="368000" />
-      <workItem from="1663027965244" duration="442000" />
+      <workItem from="1663027965244" duration="3728000" />
+      <workItem from="1663031908752" duration="904000" />
+      <workItem from="1663250698959" duration="31000" />
+      <workItem from="1663252124679" duration="383000" />
+      <workItem from="1663252854985" duration="31000" />
     </task>
     <servers />
   </component>
