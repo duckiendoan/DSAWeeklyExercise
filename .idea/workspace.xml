@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75404d76-20b6-479f-9ce7-f1467cea80ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/ClosestNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/NewYearChaos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/Pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/SherlockAndArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week03/ThreeSumFast.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week02/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week02/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week02/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week02/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +42,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreeSum">
+  <component name="RunManager" selected="Application.SelectionSort">
     <configuration name="HiThree" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week01.HiThree" />
       <module name="DSAWeeklyExercise" />
@@ -58,6 +50,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Week01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week05.SelectionSort" />
+      <module name="DSAWeeklyExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,6 +128,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.HiThree" />
+      <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.ThreeSum" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.Week02.UFClient" />
@@ -130,6 +136,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.ThreeSum" />
         <item itemvalue="Application.Week02.UFClient2" />
@@ -160,6 +167,12 @@
       <workItem from="1663250698959" duration="31000" />
       <workItem from="1663252124679" duration="383000" />
       <workItem from="1663252854985" duration="31000" />
+      <workItem from="1663315608504" duration="923000" />
+      <workItem from="1663464272971" duration="22000" />
+      <workItem from="1663464314399" duration="9000" />
+      <workItem from="1663506864830" duration="148000" />
+      <workItem from="1663567862671" duration="5676000" />
+      <workItem from="1663596025294" duration="1364000" />
     </task>
     <servers />
   </component>
