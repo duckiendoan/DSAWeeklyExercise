@@ -1,5 +1,4 @@
 package Week05;
-import edu.princeton.cs.algs4.*;
 
 // https://www.hackerrank.com/challenges/balanced-brackets
 public class BalancedBrackets {
