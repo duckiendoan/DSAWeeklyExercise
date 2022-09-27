@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75404d76-20b6-479f-9ce7-f1467cea80ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week06/Report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Week06/DataGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week06/SortingAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week06/SortingAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week06/SortingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week06/SortingTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InsertionSort1">
+  <component name="RunManager" selected="Application.SortingTest">
     <configuration name="EvaluatePostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week05.EvaluatePostfix" />
       <module name="DSAWeeklyExercise" />
@@ -133,8 +135,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InsertionSort1" />
         <item itemvalue="Application.SortingTest" />
+        <item itemvalue="Application.InsertionSort1" />
         <item itemvalue="Application.EvaluatePostfix" />
         <item itemvalue="Application.InfixToPostfix" />
         <item itemvalue="Application.FullInfixForm" />
@@ -174,7 +176,16 @@
       <workItem from="1663635437301" duration="2510000" />
       <workItem from="1663857915483" duration="5791000" />
       <workItem from="1663920231914" duration="2318000" />
-      <workItem from="1663951021297" duration="844000" />
+      <workItem from="1663951021297" duration="1345000" />
+      <workItem from="1664027245850" duration="115000" />
+      <workItem from="1664174789469" duration="2527000" />
+      <workItem from="1664177365120" duration="870000" />
+      <workItem from="1664179412752" duration="169000" />
+      <workItem from="1664200397413" duration="637000" />
+      <workItem from="1664202225225" duration="314000" />
+      <workItem from="1664208881456" duration="534000" />
+      <workItem from="1664209546580" duration="91000" />
+      <workItem from="1664209799268" duration="490000" />
     </task>
     <servers />
   </component>
