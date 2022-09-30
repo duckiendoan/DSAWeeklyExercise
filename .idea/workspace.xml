@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75404d76-20b6-479f-9ce7-f1467cea80ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week07/IntroToTutorialChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Week07/PriorityQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week07/QuicksortPartition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week07/QuicksortPartition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,22 +44,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SortingTest">
+  <component name="RunManager" selected="Application.PriorityQueue">
     <configuration name="EvaluatePostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week05.EvaluatePostfix" />
-      <module name="DSAWeeklyExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FullInfixForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week05.FullInfixForm" />
       <module name="DSAWeeklyExercise" />
       <extension name="coverage">
         <pattern>
@@ -110,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PriorityQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week07.PriorityQueue" />
+      <module name="DSAWeeklyExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week06.SortingTest" />
       <module name="DSAWeeklyExercise" />
@@ -125,19 +126,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.HiThree" />
+      <item itemvalue="Application.PriorityQueue" />
       <item itemvalue="Application.InsertionSort1" />
       <item itemvalue="Application.SortingTest" />
       <item itemvalue="Application.EvaluatePostfix" />
       <item itemvalue="Application.InfixToPostfix" />
-      <item itemvalue="Application.FullInfixForm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PriorityQueue" />
         <item itemvalue="Application.SortingTest" />
         <item itemvalue="Application.InsertionSort1" />
         <item itemvalue="Application.EvaluatePostfix" />
         <item itemvalue="Application.InfixToPostfix" />
-        <item itemvalue="Application.FullInfixForm" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +186,9 @@
       <workItem from="1664209546580" duration="91000" />
       <workItem from="1664209799268" duration="490000" />
       <workItem from="1664270447602" duration="50000" />
-      <workItem from="1664270502503" duration="418000" />
+      <workItem from="1664270502503" duration="680000" />
+      <workItem from="1664409699358" duration="310000" />
+      <workItem from="1664556161529" duration="1701000" />
     </task>
     <servers />
   </component>
