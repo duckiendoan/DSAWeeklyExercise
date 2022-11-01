@@ -6,6 +6,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
+// https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem
 class Cell {
     public int r, c;
     public Cell(int i, int j) {
